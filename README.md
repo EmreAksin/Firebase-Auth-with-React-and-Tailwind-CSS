@@ -25,7 +25,17 @@ Before running the project, make sure you have the following dependencies instal
 
 ### Install project dependencies:
 
-npm install
+1. npm install
+
+2. npm install -D tailwindcss postcss autoprefixer
+
+3. npx tailwindcss init -p
+
+4. npm install react-router-dom
+
+5. npm install firebase
+
+6. npm install -g firebase-tools
 
 Set up Firebase:
 
@@ -56,4 +66,4 @@ Fork the repository.
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 Contact
-If you have any questions or need further assistance, please contact me.
+If you have any questions or need further assistance, please contact me linkedin https://www.linkedin.com/in/emre-aksin-181a0523b/.
