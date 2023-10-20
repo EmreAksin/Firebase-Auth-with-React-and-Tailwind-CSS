@@ -1,0 +1,12 @@
+.t-block {
+  opacity: 1;
+  visibility: visible;
+  max-height: 100%;
+  transition: opacity 0.5s ease-in-out, max-height 0.5s ease-in-out, visibility 2s;
+}
+
+.t-hidden {
+  opacity: 0;
+  visibility: hidden;
+  max-height: 0;
+}
